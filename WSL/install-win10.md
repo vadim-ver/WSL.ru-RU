@@ -1,7 +1,7 @@
 ---
 title: Установка подсистемы Windows для Linux (WSL) в Windows 10
 description: Инструкции по установке для подсистемы Windows для Linux в Windows 10.
-keywords: Башонвиндовс, bash, WSL, Windows, подсистема Windows для Linux, виндовссубсистем, Ubuntu, Debian, SUSE, Windows 10, install
+keywords: bash on Windows, bash, WSL, Windows, подсистема Windows для Linux, Windows subsystem, Ubuntu, Debian, SUSE, Windows 10, install
 author: taraj
 ms.author: taraj
 ms.date: 07/23/2018
@@ -75,6 +75,6 @@ ms.locfileid: "70122768"
     новогосодержимогорисунокпараметровсистемыдляустановкиприложенийнадискеC:![](media/AppStorage.png)
     
     
- * **Сбой Вслрегистердистрибутион с ошибкой 0x8007019e**   
+ * **Сбой WSL registry ditribution с ошибкой 0x8007019e**   
   * Необязательный компонент подсистемы Windows для Linux не включен: 
    * Откройте **панель** -> управления**программы и компоненты** -> **Включение или отключение компонента Windows** . > проверить подсистему **Windows для Linux** или использовать командлет PowerShell, упомянутый в начале этой статьи.
